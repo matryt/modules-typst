@@ -1,0 +1,7 @@
+[package]
+name = "fancy-boxes"
+version = "1.0.0"
+entrypoint = "lib.typ"
+authors = ["Mathieu CUVELIER"]
+license = "Unlicense"
+description = "Fancy boxes for various things"
