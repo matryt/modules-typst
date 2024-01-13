@@ -1,0 +1,7 @@
+[package]
+name = "img-aside-text"
+version = "1.0.0"
+entrypoint = "lib.typ"
+authors = ["Mathieu CUVELIER"]
+license = "Unlicense"
+description = "Put an image aside with a text or another image"
