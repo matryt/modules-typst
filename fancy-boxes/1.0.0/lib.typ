@@ -52,3 +52,14 @@
     [*Théorème #title*\ #body] 
   )
 }
+
+#let fast_formula(body, number, title:"") = {
+  set text(fill:white)
+  set align(center)
+  block(
+    fill: rgb("#EF8E05"),
+    inset: 8pt,
+    radius: 4pt,
+    [*Form. #number* (#title): #body] 
+  )
+}
