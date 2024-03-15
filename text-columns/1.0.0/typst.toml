@@ -1,0 +1,7 @@
+[package]
+name = "text-columns"
+version = "1.0.0"
+entrypoint = "lib.typ"
+authors = ["Mathieu CUVELIER"]
+license = "Unlicense"
+description = "Put columns of text aside each other"
